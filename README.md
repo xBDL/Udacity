@@ -1,6 +1,8 @@
 # Udacity
 
-[nd188 -- Deep Learning](https://www.udacity.com/facebook-pytorch-scholarship)   
-[ud388 -- Designing RESTful APIs](https://www.udacity.com/course/designing-restful-apis--ud388)  
-[ud513 -- Data Structures & Algorithms in Python](https://www.udacity.com/course/data-structures-and-algorithms-in-python--ud513)  
-[ud953 -- Linear Algebra](https://www.udacity.com/course/linear-algebra-refresher-course--ud953)  
+[nd188 -- Deep Learning](https://classroom.udacity.com/nanodegrees/nd188)   
+
+[ud088 -- Full Stack Foundations](https://classroom.udacity.com/courses/ud088)  
+[ud388 -- Designing RESTful APIs](https://classroom.udacity.com/courses/ud388)  
+[ud513 -- Data Structures & Algorithms in Python](https://classroom.udacity.com/courses/ud513)  
+[ud953 -- Linear Algebra](https://classroom.udacity.com/courses/ud953)  
